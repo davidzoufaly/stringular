@@ -1,0 +1,17 @@
+{
+  "name": "stringural",
+  "version": "1.0.4",
+  "description": "lightweight package for magic with strings",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "author": "davidzoufaly <davidzoufaly@gmail.com>",
+  "repository": "git+https://github.com/davidzoufaly/stringular.git",
+  "bugs": {
+    "url": "https://github.com/davidzoufaly/stringular/issues"
+  },
+  "homepage": "https://github.com/davidzoufaly/stringular#readme"
+}

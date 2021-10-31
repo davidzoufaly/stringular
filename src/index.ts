@@ -113,7 +113,7 @@ class StringuralClass {
     return this;
   };
 
-  get stringOne() {
+  get result() {
     return this.string1;
   }
 }
